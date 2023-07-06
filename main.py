@@ -11,6 +11,15 @@ dlugiCiagZnakow ="Phyton jest super"
 print("długiCiagZnakow")
 print(len("dlugiCiagznakow"))
 
+dlugiCiagZnakow = "Nauka Python jest super"
+print(dlugiCiagZnakow[6:len(dlugiCiagZnakow)])
+
+dlugiCiagZnakow = "Nauka Python jest super"
+dlugosc = len(dlugiCiagZnakow)
+
+print(dlugiCiagZnakow[6:dlugosc])
+
+
 
 
 
